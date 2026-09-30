@@ -4,7 +4,7 @@ Báo cáo thực tập First Cloud AI Journey, dựng từ [fcj-workshop-templat
 theo [Quy định về Workshop](https://hcm-rules.awsfcaj.com/3-project/). Giữ nguyên theme/layout/workflow của template,
 nội dung mẫu đã được thay bằng khung trống (rules cấm sao chép workshop mẫu).
 
-Site: TODO (GitHub Pages)
+Site: https://trinpb04.github.io/fcaj-report/ · Repo: https://github.com/trinpb04/fcaj-report
 
 ## Cấu trúc (bắt buộc song ngữ: mỗi trang có `_index.md` = EN và `_index.vi.md` = VI)
 
