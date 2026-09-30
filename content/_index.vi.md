@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** FCAJ Buildrathon
 
-&emsp; **Thời gian thực tập:** Từ ngày 26/09/2026 đến ngày 26/03/2027 (6 tháng)
+&emsp; **Thời gian thực tập:** Từ ngày 28/09/2026 đến ngày 28/03/2027 (6 tháng)
 
 ![Ảnh đại diện](/images/avatar.png)
 

@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Internship Position:** FCAJ Buildrathon
 
-&emsp; **Internship Duration:** From 26/09/2026 to 26/03/2027 (6 months)
+&emsp; **Internship Duration:** From 28/09/2026 to 28/03/2027 (6 months)
 
 ![Profile picture](/images/avatar.png)
 
