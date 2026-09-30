@@ -9,23 +9,21 @@ chapter: false
 # Báo cáo thực tập
 
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** TODO
+&emsp; **Họ và tên:** Nguyễn Phước Bảo Trí
 
-&emsp; **Số điện thoại:** TODO
+&emsp; **Số điện thoại:** 0938113132
 
-&emsp; **Email:** TODO
+&emsp; **Email:** nguyenphuocbaotri.128@gmail.com
 
-&emsp; **Trường:** TODO
+&emsp; **Trường:** Western Sydney University
 
-&emsp; **Ngành:** TODO
-
-&emsp; **Lớp:** TODO
+&emsp; **Ngành:** Applied Finance and Fintech (Tài chính ứng dụng và Công nghệ tài chính)
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 
-&emsp; **Vị trí thực tập:** TODO
+&emsp; **Vị trí thực tập:** FCAJ Buildrathon
 
-&emsp; **Thời gian thực tập:** Từ ngày TODO đến ngày TODO
+&emsp; **Thời gian thực tập:** Từ ngày 26/09/2026 đến ngày 26/03/2027 (6 tháng)
 
 ![Ảnh đại diện](/images/avatar.png)
 

@@ -9,23 +9,21 @@ chapter: false
 # Internship Report
 
 ### Student Information:
-&emsp; **Full Name:** TODO
+&emsp; **Full Name:** Nguyễn Phước Bảo Trí
 
-&emsp; **Phone Number:** TODO
+&emsp; **Phone Number:** 0938113132
 
-&emsp; **Email:** TODO
+&emsp; **Email:** nguyenphuocbaotri.128@gmail.com
 
-&emsp; **University:** TODO
+&emsp; **University:** Western Sydney University
 
-&emsp; **Major:** TODO
-
-&emsp; **Class:** TODO
+&emsp; **Major:** Applied Finance and Fintech
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
-&emsp; **Internship Position:** TODO
+&emsp; **Internship Position:** FCAJ Buildrathon
 
-&emsp; **Internship Duration:** From TODO to TODO
+&emsp; **Internship Duration:** From 26/09/2026 to 26/03/2027 (6 months)
 
 ![Profile picture](/images/avatar.png)
 
